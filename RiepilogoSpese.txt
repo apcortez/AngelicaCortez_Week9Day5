@@ -1,0 +1,2 @@
+Data: 9/17/2021 - Categoria: Alloggio - Spesa: 2550 Euro - Approvata: NO
+Data: 9/17/2021 - Categoria: Altro - Spesa: 320 Euro - Approvata: SI - Rimborso: 32 Euro

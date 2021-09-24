@@ -1,0 +1,16 @@
+﻿1) Descrivere le differenze tra Value e Reference Type
+La differenza principale tra value type e reference type è la loro allocazione.
+Mentre i value type vengono archiviati su uno stack e contengono direttamente i dati e quelli sono fissi quando si compila il programma(allocazione statica), i reference type vengono archiviati su una heap 
+e contengono i riferimenti ai relativi oggetti e la quantità di memoria da allocare varia in fase all'esecuzione del programma (allocazione dinamica).
+Inoltre, con i value type ogni variabile ha la sua copia in memoria e le operazioni di una variabile non influisce su un'altra perchè li considera differenti
+i ref type invece due variabili possono fare riferimento allo stesso oggetto, per cui le operazioni su una variabile può influere sull'oggetto a cui fa riferimento un altra variabile.
+
+
+
+2) Dare una panoramica degli elementi che mette a disposizione la piattaforma .Net.
+.Net è una piattaforma open source per lo sviluppo di molti tipi di applicazioni come in ambito web, desktop, mobile, microservizi, clouding, giochi, machine learning e IoT
+è possibile creare queste applicazioni .Net per molti sistemi operativi tra cui windows, macOS, Linux, Android, iOS in 3 linguaggi di programmazione (C#,F#,Visual Basic)
+
+3) Spiegare la differenza tra .Net Framework, .Net Core.
+La principale differenza tra .Net e .Net core è che .Net funziona solo su dispositivi Windows mentre il .Net Core fornisce una piattaforma standard che viene poi utilizzata 
+su Windows, macOS, Linux e dispositivi mobili (in altre parole può essere utilizzata da altri sistemi operativi).
